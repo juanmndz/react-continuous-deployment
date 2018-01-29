@@ -1,4 +1,7 @@
-![Travis building](https://travis-ci.org/juanmndz/react-continuous-deployment.svg?branch=master)
+[![Build Status](https://travis-ci.org/juanmndz/react-continuous-deployment.svg?branch=master)](https://travis-ci.org/juanmndz/react-continuous-deployment)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
