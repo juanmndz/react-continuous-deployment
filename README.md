@@ -1,7 +1,3 @@
-Travis Passing
-
-https://travis-ci.org/juanmndz/react-continuous-deployment.svg?branch=master
-
 ![Travis building](https://travis-ci.org/juanmndz/react-continuous-deployment.svg?branch=master)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
